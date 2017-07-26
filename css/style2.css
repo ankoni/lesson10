@@ -1,0 +1,21 @@
+*{
+	box-sizing: border-box;
+}
+
+.box {
+	background-color: #fff;
+	border: 2px solid gray;
+	width: 300px;
+	height: 400px;
+	left: 50%;
+	margin-left: -150px;
+	top: 50%;
+	margin-top: -200px;
+	position: absolute;
+	padding: 20px 30px;
+}
+
+.pg {
+	width: 50%;
+	display: inline-block;
+}
